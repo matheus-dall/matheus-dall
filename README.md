@@ -2,6 +2,14 @@
 <div align="left">
   <h1>Buon Giorno, como andas?</h1>
 
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-dall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-dall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
   <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
   <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
 </div>
