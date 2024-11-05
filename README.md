@@ -3,7 +3,7 @@
   <h1>Buon Giorno, como andas?</h1>
 
   <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
-  <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos, e atualmente sei mexer com:</h3>
+  <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos, e atualmente sei mexer com: </h3>
 </div>
   
 
@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  link para minhas redes sociais: 
+  <h3>Link para minhas redes sociais: </h3>
  
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 
