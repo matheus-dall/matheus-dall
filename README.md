@@ -3,7 +3,7 @@
   <h1>Buon Giorno, como andas?</h1>
 
   <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
-  <h1>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h1>
+  <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
 </div>
   
 
