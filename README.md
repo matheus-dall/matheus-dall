@@ -2,7 +2,8 @@
 
 
 
-<h2 align="left"> Pode me chamar de Dalmaso</h2>
+<h2 align="left">Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
+<h1 align="left">Tenho planos de ingressar na carreira de desenvolvimento de jogos</h1>
 
 
 
