@@ -1,7 +1,8 @@
-<h2 align="left">Buon Giorno, como andas?</h2>
+<h1 align="left">Buon Giorno, como andas?</h1>
 
 ###
 
+<h2 align="left"> Pode me chamar de Dalmaso</h2>
 
 
 
@@ -11,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
