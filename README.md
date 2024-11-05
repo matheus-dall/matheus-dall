@@ -1,8 +1,6 @@
-
 <div align="left">
   <h1>Buon Giorno, como andas?</h1>
-
-
+  
   <div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-dall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -13,19 +11,6 @@
   <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
   <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
   <h2>Atualmente tenho conhecimento das seguintes linguagens de programação/marcação</h2>
-  
-
-  
-
-
-
-
-
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-
-###
-
-
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -49,11 +34,9 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 
 </div>
-
 ###
 
 <br clear="both">
 
 <img src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif" />
-
 ###
