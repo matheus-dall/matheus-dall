@@ -1,9 +1,11 @@
-<h1 align="left">Buon Giorno, como andas?</h1>
 
+<div align="left">
+  <h1>Buon Giorno, como andas?</h1>
 
-
-<h2 align="left">Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
-<h1 align="left">Tenho planos de ingressar na carreira de desenvolvimento de jogos</h1>
+  <h2>Pode me chamar de Dalmaso, e sou um aspirante a programador</h2>
+  <h1>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h1>
+</div>
+  
 
 
 
