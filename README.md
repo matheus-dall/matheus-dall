@@ -14,18 +14,18 @@
   <h3>Tenho planos de ingressar na carreira de desenvolvimento de jogos</h3>
   <h2>Atualmente tenho conhecimento das seguintes linguagens de programação/marcação</h2>
   
-</div>
+
   
 
 
 
-###
+
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
-<div align="left">
+
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
